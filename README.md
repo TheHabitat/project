@@ -12,4 +12,4 @@ Chime in on your area of expertise and help us build it! It's **Open Source**!
 
 If you want to contribute check our **[issues](https://github.com/TheHabitat/project/issues)**. If you don't find what you are looking for go ahead and open a new one!
 
-//blob/master/
+**[The Box](the_box/)**
