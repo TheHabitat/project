@@ -16,7 +16,7 @@ Total area is yet to be defined based on how the areas are finally equipped.
 ## Life Support
 
 The life support systems will be improved at each iteration of the experiment and, in the final version, will comprise:
-* **[Environmental Sensors](environmental-sensors)**
+* **[Environmental Sensors](environmental-sensors.md)**
 * **Chemical CO2 Scrubber** The scrubber is being discussed in #4
 * **Biological CO2 Scrubber** The bio scrubber is being discussed in #7
 * **Humidity Control** No discussion so far, feel free to start one.
